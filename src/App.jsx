@@ -1,6 +1,7 @@
 import { ThemeProvider } from './contexts/ThemeContext';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import SellVehicles from './components/SellVehicles';
 import Features from './components/Features';
 import Footer from './components/Footer';
 
@@ -11,6 +12,7 @@ function App() {
         <Header />
         <main>
           <Hero />
+          <SellVehicles />
           <Features />
         </main>
         <Footer />

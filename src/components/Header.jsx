@@ -21,7 +21,7 @@ const Header = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0">
               <h1 className="text-2xl font-bold gradient-text">
-                AutoMarket
+                Riyamadura
               </h1>
             </div>
           </div>

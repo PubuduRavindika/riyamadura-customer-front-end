@@ -74,7 +74,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <h3 className="text-2xl font-bold gradient-text mb-4">
-              AutoMarket
+              Riyamadura
             </h3>
             <p className="text-gray-400 mb-6 max-w-md">
               The most trusted platform for buying and selling vehicles. Connect with verified sellers and find your perfect match with our AI-powered recommendations.
@@ -149,7 +149,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm">
-              © {currentYear} AutoMarket. All rights reserved.
+              © {currentYear} Riyamadura. All rights reserved.
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               {footerLinks.legal.map((link) => (
